@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-pipx/compare/v1.0.0...v1.0.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([ec48c93](https://github.com/kc-workspace/asdf-pipx/commit/ec48c93eb5adad637c99b91f29f4dcd6525a429a))
+
 ## 1.0.0 (2023-11-06)
 
 
